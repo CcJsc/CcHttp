@@ -1,0 +1,3 @@
+include ':CcLibrary'
+include ':app'
+rootProject.name = "CcHttp"
