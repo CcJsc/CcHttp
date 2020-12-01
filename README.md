@@ -1,6 +1,7 @@
 # CcHttp
  implementation 'com.github.CcJsc:CcHttp:3.4'
  
+``` 
 allprojects {
     repositories {
         google()
@@ -8,3 +9,4 @@ allprojects {
         maven { url 'https://jitpack.io' }
     }
 }
+```
